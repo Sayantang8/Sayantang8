@@ -102,7 +102,8 @@ Technologies I'm currently learning and working with to build amazing projects:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50" style="margin:15px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50" style="margin:15px;" />
 <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="50" height="50" style="margin:15px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" alt="OpenAI" width="50" height="50" style="margin:15px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" alt="OpenAI" width="50" height="50" style="margin:15px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Gemini_Logo.png" alt="Gemini" width="50" height="50" style="margin:15px;" />
 
 ### 🌐 Web Development  
 
@@ -122,6 +123,7 @@ Technologies I'm currently learning and working with to build amazing projects:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="margin:15px;" />
 
 </div>
+
 
 
 
