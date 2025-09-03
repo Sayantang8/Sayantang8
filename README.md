@@ -126,16 +126,6 @@ Technologies I'm currently learning and working with to build amazing projects:
 
 
 
-
-
-
-
-
-
-
-</div>
-
-
 <!-- Tech Skills Animation -->
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+%7C+AI%2FML+%7C+LLMs+%7C+GenAI;React+%7C+Node.js+%7C+FastAPI+%7C+Flask;Docker+%7C+AWS+%7C+PostgreSQL+%7C+MongoDB;Always+Learning+New+Technologies!" />
