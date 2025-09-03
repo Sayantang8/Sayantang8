@@ -108,7 +108,7 @@ Technologies I'm currently learning and working with to build amazing projects:
 
 ### 🌐 Web & API Development  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="60" height="60" style="margin:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="60" height="60" style="margin:10px; background-color:white; border-radius:10px; padding:5px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" width="60" height="60" style="margin:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60" style="margin:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="60" height="60" style="margin:10px;" />
 <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="Streamlit" width="60" height="60" style="margin:10px;" />
@@ -120,6 +120,7 @@ Technologies I'm currently learning and working with to build amazing projects:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60" style="margin:10px;" />
 
 </div>
+
 
 
 
